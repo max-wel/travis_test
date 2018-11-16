@@ -1,0 +1,28 @@
+{
+  "name": "travis_test",
+  "version": "1.0.0",
+  "description": "initial",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneakymaxy/travis_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneakymaxy/travis_test/issues"
+  },
+  "homepage": "https://github.com/sneakymaxy/travis_test#readme"
+}
